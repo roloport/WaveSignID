@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/waveid/__init__.py
+src/waveid.egg-info/PKG-INFO
+src/waveid.egg-info/SOURCES.txt
+src/waveid.egg-info/dependency_links.txt
+src/waveid.egg-info/requires.txt
+src/waveid.egg-info/top_level.txt
