@@ -7,7 +7,6 @@ build/
 .pytest_cache/
 *.png
 
-# Cython build artifacts (on dev branch; main tracks the .so)
+# Cython intermediate artifacts
 *.c
 *.html
-*.so
